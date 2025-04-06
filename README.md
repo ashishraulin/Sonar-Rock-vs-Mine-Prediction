@@ -17,11 +17,9 @@ The dataset is from the [UCI Machine Learning Repository](https://archive.ics.uc
 3. Run the cells to train and test the model.
 
 ## 📈 Model Used
-- Logistic Regression (or whichever you used)
-- Accuracy: ~XX% (add your result here)
-
-## 📷 Sample Output
-![output](images/sample_chart.png) *(optional)*
+- Model: Logistic Regression
+Accuracy: ~83% on test data
+Evaluation Metric: Accuracy Score (can also use confusion matrix or classification report)
 
 ## 🤝 Contributing
 Pull requests are welcome!
