@@ -13,7 +13,7 @@ The dataset is from the [UCI Machine Learning Repository](https://archive.ics.uc
 
 ## 🚀 How to Run
 1. Clone the repo or open the notebook in Google Colab.
-2. Upload the `sonar.csv` dataset.
+2. Upload the `sonar data.csv` dataset.
 3. Run the cells to train and test the model.
 
 ## 📈 Model Used
